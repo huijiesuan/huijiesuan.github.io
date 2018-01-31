@@ -11,7 +11,7 @@ script:
   - gitbook build
 
 after_success:
-  - "sh deploy.sh"
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash deploy.sh
 
 env:
   global:
