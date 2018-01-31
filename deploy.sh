@@ -2,9 +2,9 @@
 
 set -o errexit -o nounset
 
-if [ "$TRAVIS_BRANCH" != "source" ]
+if [ "$TRAVIS_BRANCH" != "master" ]
 then 
-    echo "This commit was made against the $TRAVIS_BRANCH and not the source! No deploy!" 
+    echo "This commit was made against the $TRAVIS_BRANCH and not the master! No deploy!" 
     exit 0
 
 
@@ -20,14 +20,12 @@ git remote add upstream "https://$GH_TOKEN@github.com/huijiesuan/huijiesuan.gith
 
 git fetch upstream
 
-git reset upstream/source
+git reset upstream/master
 
 echo "huijiesuan.github.io" > CNAME
-
-touch .
 
 git add -A
 
 git commit -m "rebuild pages at ${rev}"
 
-git push -q upstream HEAD:source
+git push -q upstream HEAD:master
