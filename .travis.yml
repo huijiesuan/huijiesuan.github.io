@@ -7,11 +7,9 @@ install:
   - npm install gitbook -g
   - npm install -g gitbook-cli
 
-script:
-  - gitbook build
 
 after_success:
-  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && bash deploy.sh
+  - test $TRAVIS_PULL_REQUEST == "false" && bash deploy.sh
 
 env:
   global:
