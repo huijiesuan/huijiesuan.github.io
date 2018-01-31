@@ -10,9 +10,9 @@ fi
 
 rev=$(git rev-parse --short HEAD)
 
-cd stage/_book
+cd _book
 
-git initgit config user.name "tsrot"
+git config user.name "tsrot"
 
 git config user.email "me@xieliqun.com"
 
