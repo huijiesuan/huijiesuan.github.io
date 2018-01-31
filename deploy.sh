@@ -20,7 +20,7 @@ git remote add upstream "https://$GH_TOKEN@github.com/huijiesuan/huijiesuan.gith
 
 git fetch upstream
 
-git reset upstream/gh-pages
+git reset upstream/master
 
 echo "huijiesuan.github.io" > CNAME
 
@@ -28,4 +28,4 @@ git add -A
 
 git commit -m "rebuild pages at ${rev}"
 
-git push -q upstream HEAD:gh-pages
+git push -q upstream HEAD:master
