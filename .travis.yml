@@ -7,8 +7,7 @@ install:
   - npm install gitbook -g
   - npm install -g gitbook-cli
 
-script:
-  - gitbook build
+
 
 after_success:
   - bash deploy.sh

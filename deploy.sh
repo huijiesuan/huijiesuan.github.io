@@ -10,7 +10,7 @@ fi
 
 rev=$(git rev-parse --short HEAD)
 
-cd _book
+cd ./
 
 git config user.name "tsrot"
 
