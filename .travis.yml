@@ -11,5 +11,8 @@ script:
   - gitbook build
 
 after_success:
-  - sh deploy.sh
+  - "sh deploy.sh"
 
+env:
+  global:
+    - secure: "lUQ1tsmFl5kaRD84319RPxqFygKupsnwucQJO8196My09MVy5SeYGAPTEhOCPR2dtXCcIYXJzoPfyJ98z/DVmmVraVAQNI0fawwx7gWPmAzap+Wj1zLbJYU4mB64wQ7y7lwdfD0DiqbcMHIbYKEI92//PW85g2h4735KEbNUtfQF/3SKUdea4xJyM37V6g8IMeBHtKC/AD1g9U32Fzq6TFJ7IYizp/fM4xJnynNUq7A7mmcG4ksB/4ziuUZDP0G9UqF5bp2sXHFNrc0bnAFAJQorSezqLhZvjocBcogRP0egSMgksnt42IgmDvlHy4189JsmrFdB7q94+Zstff8xw1AobuRpz3B9WGCvXPquG8t5mq1JYU2LBGIYUjWKWRdHJNM6etxml3fjR7/okOQvdX8eF0oR1VyZZjW09VrupEyjPsOo2YTiqwI/jLx8dHeoHkm/PAu1L+aGwckTXZpz2xl1nzrt6g/qVu7RwHk+ghKFIyp6afQGVXK3t1iMBLLiLwANA71aJdxoYV87mdXx3tOf17Jt9t58mex/NqfI0S6rGdG3L+O93tIPFGHFEz2X2lI3tbrkhhp8lj26UNqH0Ur8CV60PnRElkGC8LXs58zTpcSU1uqFbuBiU2Rn4wD4/1XppKP8NYse2iauBqxH2VI9cpNAfRQFQKHBRliW2PY="
