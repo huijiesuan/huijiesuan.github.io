@@ -2,9 +2,9 @@
 
 set -o errexit -o nounset
 
-if [ "$TRAVIS_BRANCH" != "gh-pages" ]
+if [ "$TRAVIS_BRANCH" != "master" ]
 then 
-    echo "This commit was made against the $TRAVIS_BRANCH and not the gh-pages! No deploy!" 
+    echo "This commit was made against the $TRAVIS_BRANCH and not the master! No deploy!" 
     exit 0
 fi
 
@@ -20,7 +20,7 @@ git remote add upstream "https://github.com/huijiesuan/doc.git"
 
 git fetch upstream
 
-git reset upstream/gh-pages
+git reset upstream/master
 
 echo "huijiesuan.github.io" > CNAME
 
@@ -28,4 +28,4 @@ git add -A
 
 git commit -m "rebuild pages at ${rev}"
 
-git push -q upstream HEAD:gh-pages
+git push -q upstream HEAD:master
