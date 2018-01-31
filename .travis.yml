@@ -9,7 +9,7 @@ install:
 
 
 after_success:
-  - test $TRAVIS_PULL_REQUEST == "false" && bash deploy.sh
+  - bash deploy.sh
 
 env:
   global:
