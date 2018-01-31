@@ -8,10 +8,10 @@ install:
   - npm install -g gitbook-cli
 
 script:
-  - gitbook init
+  - gitbook build
 
 after_success:
-  - bash deploy.sh
+  -  bash deploy.sh
 
 env:
   global:
