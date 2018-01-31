@@ -1,7 +1,4 @@
 #!/bin/bash
-echo "2222"
-
-gitbook build
 
 set -o errexit -o nounset
 
