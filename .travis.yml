@@ -11,7 +11,7 @@ script:
   - gitbook build
 
 after_success:
-  -  bash deploy.sh
+  - bash deploy.sh
 
 env:
   global:
