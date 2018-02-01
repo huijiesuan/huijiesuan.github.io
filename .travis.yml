@@ -20,6 +20,7 @@ deploy:
   local-dir: _book
   skip-cleanup: true
   github-token: $GH_TOKEN  # Set in travis-ci.org dashboard, marked secure
+  target-branch: master
   keep-history: true
   on:
     branch: source
