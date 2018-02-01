@@ -16,7 +16,7 @@ script:
   - gitbook build
 
 after_success:
-  - sh deploy.sh
+  - sh echo "111"
 
 env:
   global:
