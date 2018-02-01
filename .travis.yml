@@ -13,10 +13,10 @@ install:
   - npm install -g gitbook-cli
 
 script:
-  - bash deploy.sh
-
-after_script:
   - gitbook build
+  - chmod +x ./deploy.sh
+
+after_success: ./deploy.sh
 
 env:
   global:
