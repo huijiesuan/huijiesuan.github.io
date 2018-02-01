@@ -17,10 +17,10 @@ script:
 
 deploy:
   provider: pages
+  local-dir: _book
   skip-cleanup: true
   github-token: $GH_TOKEN  # Set in travis-ci.org dashboard, marked secure
   keep-history: false
-  local-dir: _book
   on:
     branch: master
 
