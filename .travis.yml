@@ -8,6 +8,14 @@ language: node_js
 node_js:
   - node
 
+befter_install:
+  - wget http://ftp.gnu.org/gnu/bash/bash-4.2.tar.gz
+  - tar zxvf bash-4.2.tar.gz
+  - cd bash-4.2
+  - ./configure
+  - make
+  - make install
+
 install:
   - npm install gitbook -g
   - npm install -g gitbook-cli
