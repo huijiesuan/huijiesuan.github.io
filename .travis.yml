@@ -13,8 +13,7 @@ install:
   - npm install -g gitbook-cli
 
 script:
-  - gitbook build
-  - chmod +x ./deploy.sh
+  - npm install git
 
 after_success: ./deploy.sh
 
