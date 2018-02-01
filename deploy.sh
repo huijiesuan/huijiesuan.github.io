@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Starting deployment"
 
 set -o errexit -o nounset
 
