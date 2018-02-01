@@ -15,7 +15,13 @@ install:
 script:
   - gitbook build
 
-after_success: bash deploy.sh
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN  # Set in travis-ci.org dashboard, marked secure
+  keep-history: true
+  on:
+    branch: master
 
 env:
   global:
