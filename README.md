@@ -2,7 +2,6 @@
 <div align=center>
 	<img src="./img/logo.png" style="width: 100px;height: 100px;">
 </div>
-
 <h1 style="font-weight: 300;">
 慧结算 [![Build Status](https://travis-ci.org/huijiesuan/huijiesuan.github.io.svg?branch=master)](https://travis-ci.org/huijiesuan/huijiesuan.github.io)
 </h1>
