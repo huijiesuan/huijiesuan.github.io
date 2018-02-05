@@ -16,6 +16,7 @@
 [![OpenCollective](https://opencollective.com/element/backers/badge.svg)](#backers) 
 [![OpenCollective](https://opencollective.com/element/sponsors/badge.svg)](#sponsors)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+ 
 > A Vue.js 2.0 UI Toolkit for Web.
 
 <p align="center">
