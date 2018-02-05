@@ -1,8 +1,10 @@
 
-<div align=center>
+<p align=center>
 	<img src="./img/logo.png" style="width: 100px;height: 100px;">
-</div>
-# 慧结算[![Build Status](https://travis-ci.org/huijiesuan/huijiesuan.github.io.svg?branch=master)](https://travis-ci.org/huijiesuan/huijiesuan.github.io)
+</p>
+
+# 慧结算 [![Build Status](https://travis-ci.org/huijiesuan/huijiesuan.github.io.svg?branch=master)](https://travis-ci.org/huijiesuan/huijiesuan.github.io)
+
 <p style="height: 1px;background-color: #ccc;"></p>
 
 慧结算，杭州辉智网络科技有限公司一款SAAS产品，是新服务业前台业务与后台财税融合平台及经营财务数据聚合系统。
