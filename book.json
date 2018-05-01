@@ -1,8 +1,9 @@
 {
+	"root": "./"
 	"gitbook": ">=2.0.0",
 	"description": "慧结算经营财务系统帮助文档",
 	"language": "zh",
 	"styles": {
-        "website": "styles/website.css"
+        "website": "styles/website.ss"
     }
 }
