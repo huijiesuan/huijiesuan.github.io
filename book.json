@@ -1,7 +1,7 @@
 {
 	"gitbook": ">=2.0.0",
 	"description": "慧结算经营财务系统帮助文档",
-	"author" : "zhangjikai",
+	"author" : "xieliqun",
 	"language": "zh-hans",
 	"styles": {
         "website": "styles/website.ss"
