@@ -4,26 +4,22 @@
 	"author" : "xieliqun",
 	"language": "zh-hans",
 	"styles": {
-        "website": "styles/website.ss"
+        "website": "styles/website.css"
     },
     "links" : {
         "sidebar" : {
-            "Home" : "http://zhangjikai.com"
+            "慧结算官网" : "https://www.hjiesuan.com"
         }
     },
     "plugins": [
         "-lunr",
         "-search",
-        "search-pro",
-        "github"
+        "search-pro"
     ],
     "pluginsConfig": {
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord" : ["Gitbook Use"]
-        },
-        "github": {
-            "url": "https://github.com/zhangjikai"
         }
     }
 }
