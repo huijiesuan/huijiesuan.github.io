@@ -12,6 +12,7 @@
         }
     },
     "plugins": [
+        "-lunr",
         "-search",
         "search-pro",
         "github"
