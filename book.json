@@ -6,11 +6,6 @@
 	"styles": {
         "website": "styles/website.css"
     },
-    "links" : {
-        "sidebar" : {
-            "慧结算官网" : "https://www.hjiesuan.com"
-        }
-    },
     "plugins": [
         "-lunr",
         "-search",
