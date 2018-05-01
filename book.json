@@ -10,5 +10,15 @@
         "sidebar" : {
             "Home" : "http://zhangjikai.com"
         }
+    },
+    "plugins": [
+        "-search",
+        "search-pro"
+    ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Gitbook Use"]
+        }
     }
 }
