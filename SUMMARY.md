@@ -2,6 +2,7 @@
 
 * [简介](README.md)
 * [合同订单](he-tong-ding-dan.md)
+  * [hello world](he-tong-ding-dan/hello-world.md)
 * [营收结算](ying-shou-jie-suan.md)
 * 支出结算
 * 发票管理
