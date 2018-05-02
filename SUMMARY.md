@@ -9,5 +9,4 @@
 * [资金管理](zi-jin-guan-li.md)
 * [统计报表](tong-ji-bao-biao.md)
 * [自动会计](zi-dong-hui-ji.md)
-* [应收](ying-shou.md)
 
