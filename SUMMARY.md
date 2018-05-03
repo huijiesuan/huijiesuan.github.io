@@ -20,7 +20,7 @@
   * [支出类统计报表](tong-ji-bao-biao/zhi-chu-lei-tong-ji-bao-biao.md)
   * [收入类统计报表](tong-ji-bao-biao/shou-ru-lei-tong-ji-bao-biao.md)
   * [业绩类统计报表](tong-ji-bao-biao/ye-ji-lei-tong-ji-bao-biao.md)
-  * 往来类统计报表
+  * [往来类统计报表](tong-ji-bao-biao/wang-lai-lei-tong-ji-bao-biao.md)
   * 发票类统计报表
   * 总账类统计报表
 * [自动会计（梅子豪）](zi-dong-hui-ji.md)
