@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](README.md)
+* [简介（谢理群）](README.md)
 * [合同订单（谢理群、汪晓燕）](he-tong-ding-dan.md)
   * 新建订单
   * 变更订单
