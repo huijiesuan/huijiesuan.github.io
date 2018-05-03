@@ -18,8 +18,8 @@
 * [统计报表（梅子豪）](tong-ji-bao-biao.md)
   * [盈利类统计报表](tong-ji-bao-biao/ying-li-lei-tong-ji-bao-biao.md)
   * [支出类统计报表](tong-ji-bao-biao/zhi-chu-lei-tong-ji-bao-biao.md)
-  * 收入类统计报表
-  * 业绩类统计报表
+  * [收入类统计报表](tong-ji-bao-biao/shou-ru-lei-tong-ji-bao-biao.md)
+  * [业绩类统计报表](tong-ji-bao-biao/ye-ji-lei-tong-ji-bao-biao.md)
   * 往来类统计报表
   * 发票类统计报表
   * 总账类统计报表
