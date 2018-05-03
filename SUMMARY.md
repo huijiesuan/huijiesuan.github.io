@@ -8,7 +8,7 @@
 * [营收结算（汪晓燕、申剑）](ying-shou-jie-suan.md)
   * [应收结算单](ying-shou-jie-suan/ying-shou-jie-suan-dan.md)
   * 交付提报
-  * 收入确认
+  * [收入确认](ying-shou-jie-suan/shou-ru-que-ren.md)
 * [支出结算（欧阳洁、谢理群）](zhi-chu-jie-suan.md)
   * [支出记录](zhi-chu-jie-suan/zhi-chu-jie-suan.md)
   * [支出报销单](zhi-chu-jie-suan/zhi-chu-bao-xiao-dan.md)
