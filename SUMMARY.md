@@ -7,7 +7,7 @@
   * [导入导出订单](he-tong-ding-dan/dao-ru-dao-chu-ding-dan.md)
 * [营收结算（汪晓燕、申剑）](ying-shou-jie-suan.md)
   * [应收结算单](ying-shou-jie-suan/ying-shou-jie-suan-dan.md)
-  * 交付提报
+  * [交付提报](ying-shou-jie-suan/jiao-fu-ti-bao.md)
   * [收入确认](ying-shou-jie-suan/shou-ru-que-ren.md)
 * [支出结算（欧阳洁、谢理群）](zhi-chu-jie-suan.md)
   * [支出记录](zhi-chu-jie-suan/zhi-chu-jie-suan.md)
