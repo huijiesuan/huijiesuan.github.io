@@ -2,11 +2,14 @@
 
 * [简介（谢理群）](README.md)
 * [合同订单（谢理群、汪晓燕）](he-tong-ding-dan.md)
-  * 新建订单
-  * 变更订单
-  * 导入导出订单
+  * [新建订单](he-tong-ding-dan/xin-jian-ding-dan.md)
+  * [变更订单](he-tong-ding-dan/bian-geng-ding-dan.md)
+  * [导入导出订单](he-tong-ding-dan/dao-ru-dao-chu-ding-dan.md)
 * [营收结算（汪晓燕、申剑）](ying-shou-jie-suan.md)
 * [支出结算（欧阳洁、谢理群）](zhi-chu-jie-suan.md)
+  * [支出记录](zhi-chu-jie-suan/zhi-chu-jie-suan.md)
+  * [支出报销单](zhi-chu-jie-suan/zhi-chu-bao-xiao-dan.md)
+  * [其他付款单](zhi-chu-jie-suan/qi-ta-fu-kuan-dan.md)
 * [发票管理（申剑、汪晓燕）](fa-piao-guan-li.md)
 * [资金管理（梅子豪）](zi-jin-guan-li.md)
 * [统计报表（梅子豪）](tong-ji-bao-biao.md)
