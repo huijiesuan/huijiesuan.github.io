@@ -21,8 +21,8 @@
   * [收入类统计报表](tong-ji-bao-biao/shou-ru-lei-tong-ji-bao-biao.md)
   * [业绩类统计报表](tong-ji-bao-biao/ye-ji-lei-tong-ji-bao-biao.md)
   * [往来类统计报表](tong-ji-bao-biao/wang-lai-lei-tong-ji-bao-biao.md)
-  * 发票类统计报表
-  * 总账类统计报表
+  * [发票类统计报表](tong-ji-bao-biao/fa-piao-lei-tong-ji-bao-biao.md)
+  * [总账类统计报表](tong-ji-bao-biao/zong-zhang-lei-tong-ji-bao-biao.md)
 * [自动会计（梅子豪）](zi-dong-hui-ji.md)
 * [设置（谢理群、汪晓燕）](xin-jian-ding-dan.md)
 * [其他流程帮助（老潘）](qi-ta.md)
