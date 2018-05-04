@@ -16,8 +16,8 @@
 * [发票管理（申剑、汪晓燕）](fa-piao-guan-li.md)
 * [资金管理（梅子豪）](zi-jin-guan-li.md)
   * [银行对账单](zi-jin-guan-li/yin-xing-dui-zhang-dan.md)
-  * [收款认领](zi-jin-guan-li/shou-kuan-ren-ling.md)
-  * 收款发布
+  * [收款发布](zi-jin-guan-li/shou-kuan-ren-ling.md)
+  * [收款认领](zi-jin-guan-li/shou-kuan-fa-bu.md)
   * 收款单
   * 付款单
   * 银企对账
