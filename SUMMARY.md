@@ -18,8 +18,8 @@
   * [银行对账单](zi-jin-guan-li/yin-xing-dui-zhang-dan.md)
   * [收款发布](zi-jin-guan-li/shou-kuan-ren-ling.md)
   * [收款认领](zi-jin-guan-li/shou-kuan-fa-bu.md)
-  * 收款单
-  * 付款单
+  * [收款单](zi-jin-guan-li/shou-kuan-dan.md)
+  * [付款单](zi-jin-guan-li/fu-kuan-dan.md)
   * 银企对账
 * [统计报表（梅子豪）](tong-ji-bao-biao.md)
   * [盈利类统计报表](tong-ji-bao-biao/ying-li-lei-tong-ji-bao-biao.md)
