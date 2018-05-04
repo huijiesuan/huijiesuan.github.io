@@ -35,6 +35,9 @@
   * [总账类统计报表](tong-ji-bao-biao/zong-zhang-lei-tong-ji-bao-biao.md)
 * [自动会计（梅子豪）](zi-dong-hui-ji.md)
 * [设置（谢理群、汪晓燕）](xin-jian-ding-dan.md)
+  * [系统设置](xin-jian-ding-dan/xi-tong-she-zhi.md)
+  * 财务设置
+  * 业务设置
 * [其他流程帮助（老潘）](qi-ta.md)
 * [常见问题（汪晓燕、欧阳洁）](qanda.md)
 
