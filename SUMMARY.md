@@ -16,7 +16,7 @@
 * [发票管理（申剑、汪晓燕）](fa-piao-guan-li.md)
   * [开票申请](fa-piao-guan-li/kai-piao-shen-qing.md)
   * [开票登记](fa-piao-guan-li/kai-piao-deng-ji.md)
-  * 快速登记
+  * [快速登记](fa-piao-guan-li/kuai-su-deng-ji.md)
   * 进项发票
 * [资金管理（梅子豪）](zi-jin-guan-li.md)
   * [银行对账单](zi-jin-guan-li/yin-xing-dui-zhang-dan.md)
