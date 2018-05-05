@@ -38,6 +38,5 @@
   * [系统设置](xin-jian-ding-dan/xi-tong-she-zhi.md)
   * [财务设置](xin-jian-ding-dan/cai-wu-she-zhi.md)
   * [业务设置](xin-jian-ding-dan/ye-wu-she-zhi.md)
-* [其他流程帮助（老潘）](qi-ta.md)
 * [常见问题（汪晓燕、欧阳洁）](qanda.md)
 
