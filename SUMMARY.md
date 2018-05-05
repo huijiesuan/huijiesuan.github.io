@@ -15,7 +15,7 @@
   * [其他付款单](zhi-chu-jie-suan/qi-ta-fu-kuan-dan.md)
 * [发票管理（申剑、汪晓燕）](fa-piao-guan-li.md)
   * [开票申请](fa-piao-guan-li/kai-piao-shen-qing.md)
-  * 开票登记
+  * [开票登记](fa-piao-guan-li/kai-piao-deng-ji.md)
   * 快速登记
   * 进项发票
 * [资金管理（梅子豪）](zi-jin-guan-li.md)
@@ -41,7 +41,8 @@
 * [设置（谢理群、汪晓燕）](xin-jian-ding-dan.md)
   * [系统设置](xin-jian-ding-dan/xi-tong-she-zhi.md)
   * [财务设置](xin-jian-ding-dan/cai-wu-she-zhi.md)
-  * [业务设置](xin-jian-ding-dan/ye-wu-she-zhi.md)
+  * 业务设置
+* [其他流程帮助（老潘）](qi-ta.md)
 * [常见问题（汪晓燕、欧阳洁）](qanda.md)
 * 发票签收
 
