@@ -13,4 +13,4 @@
 ## 移动端
 
 首页 —&gt; 合同订单 —&gt; "+"
-![](/img/xin_jian_ding_dan.png)
+![](/assets/xin_jian_ding_dan_2.png)
