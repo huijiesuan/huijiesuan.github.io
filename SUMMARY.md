@@ -18,7 +18,7 @@
   * [开票登记](fa-piao-guan-li/kai-piao-deng-ji.md)
   * [快速登记](fa-piao-guan-li/kuai-su-deng-ji.md)
   * [发票签收](fa-piao-guan-li/jin-xiang-fa-piao.md)
-  * [进项发票](fa-piao-guan-li/jin-xiang-fa-piao.md)
+  * 进项发票
 * [资金管理（梅子豪）](zi-jin-guan-li.md)
   * [银行对账单](zi-jin-guan-li/yin-xing-dui-zhang-dan.md)
   * [收款发布](zi-jin-guan-li/shou-kuan-ren-ling.md)
@@ -45,5 +45,4 @@
   * 业务设置
 * [其他流程帮助（老潘）](qi-ta.md)
 * [常见问题（汪晓燕、欧阳洁）](qanda.md)
-* 发票签收
 
