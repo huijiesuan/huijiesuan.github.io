@@ -1,4 +1,5 @@
 {
+	"title" : "慧结算帮助文档",
 	"gitbook": ">=2.0.0",
 	"description": "慧结算经营财务系统帮助文档",
 	"author" : "xieliqun",
