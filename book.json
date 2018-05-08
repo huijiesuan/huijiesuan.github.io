@@ -10,12 +10,22 @@
     "plugins": [
         "-lunr",
         "-search",
-        "search-pro"
+        "search-pro",
+        "favicon"
     ],
     "pluginsConfig": {
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord" : ["Gitbook Use"]
+        },
+        "favicon":{
+            "shortcut": "./favicon.ico",
+            "bookmark": "./favicon.ico",
+            "appleTouch": "./favicon.ico",
+            "appleTouchMore": {
+                "120x120": "./favicon.ico",
+                "180x180": "./favicon.ico"
+            }
         }
     }
 }
