@@ -20,7 +20,7 @@
   * [发票签收](fa-piao-guan-li/fa-piao-qian-shou.md)
   * [进项发票](fa-piao-guan-li/jin-xiang-fa-piao.md)
 * [资金管理](zi-jin-guan-li.md)
-  * [银行对账单](zi-jin-guan-li/yin-xing-dui-zhang-dan.md)
+  * [资金流水账](zi-jin-guan-li/yin-xing-dui-zhang-dan.md)
   * [收款发布](zi-jin-guan-li/shou-kuan-ren-ling.md)
   * [收款认领](zi-jin-guan-li/shou-kuan-fa-bu.md)
   * [收款认领确认](zi-jin-guan-li/shou-kuan-ren-ling-que-ren.md)
