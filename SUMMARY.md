@@ -1,6 +1,7 @@
 # Summary
 
-* [简介](README.md)
+* [关于慧结算](README.md)
+* [系统界面简介](xi-tong-jie-mian-jian-jie.md)
 * [合同订单](he-tong-ding-dan.md)
   * [新建订单](he-tong-ding-dan/xin-jian-ding-dan.md)
   * [变更订单](he-tong-ding-dan/bian-geng-ding-dan.md)
@@ -34,8 +35,5 @@
   * [发票类统计报表](tong-ji-bao-biao/fa-piao-lei-tong-ji-bao-biao.md)
   * [总账类统计报表](tong-ji-bao-biao/zong-zhang-lei-tong-ji-bao-biao.md)
 * [自动会计](zi-dong-hui-ji.md)
-* [设置](xin-jian-ding-dan.md)
-  * [系统设置](xin-jian-ding-dan/xi-tong-she-zhi.md)
-  * [财务设置](xin-jian-ding-dan/cai-wu-she-zhi.md)
-  * [业务设置](xin-jian-ding-dan/ye-wu-she-zhi.md)
+* 系统界面简介
 
