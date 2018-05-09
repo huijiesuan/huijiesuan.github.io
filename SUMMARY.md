@@ -22,7 +22,6 @@
 * [资金管理](zi-jin-guan-li.md)
   * [资金流水账](zi-jin-guan-li/yin-xing-dui-zhang-dan.md)
   * [收款认领](zi-jin-guan-li/shou-kuan-fa-bu.md)
-  * [收款认领确认](zi-jin-guan-li/shou-kuan-ren-ling-que-ren.md)
   * [取消认领、取消核销](zi-jin-guan-li/qu-xiao-ren-ling-3001-qu-xiao-he-xiao.md)
   * [收款单](zi-jin-guan-li/shou-kuan-dan.md)
   * [付款单](zi-jin-guan-li/fu-kuan-dan.md)
