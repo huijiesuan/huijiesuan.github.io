@@ -7,5 +7,5 @@
 **PC端**
 ![](/assets/3.jpg)
 **移动端**
-![](/assets/8.jpg)
+![](/assets/15.jpg)
 
