@@ -4,7 +4,7 @@
 * [系统界面简介](xi-tong-jie-mian-jian-jie.md)
 * [合同订单](he-tong-ding-dan.md)
   * [新建订单](he-tong-ding-dan/xin-jian-ding-dan.md)
-  * [变更订单](he-tong-ding-dan/bian-geng-ding-dan.md)
+  * [修改与变更订单](he-tong-ding-dan/bian-geng-ding-dan.md)
   * [导入导出订单](he-tong-ding-dan/dao-ru-dao-chu-ding-dan.md)
 * [营收结算](ying-shou-jie-suan.md)
   * [应收结算单](ying-shou-jie-suan/ying-shou-jie-suan-dan.md)
