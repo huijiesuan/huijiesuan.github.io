@@ -4,5 +4,3 @@
 
 ![](/assets/18.jpg)
 
-
-![](/assets/19.jpg)
