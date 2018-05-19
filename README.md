@@ -1,4 +1,3 @@
-
 <p align=center>
 	<img src="./img/logo.png" style="width: 100px;height: 100px;">
 </p>
